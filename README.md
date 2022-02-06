@@ -1,2 +1,2 @@
 # Data-Mining-Project
-Exploratory Data Analysis in Python Using Sephora Websites Dataset
+Exploratory Data Analysis in Python Using Sephora Websites Dataset from kaggle
